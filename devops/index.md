@@ -4,6 +4,7 @@
 
 ## Полезные ссылки
 
+* [Что такое DevOps](https://www.youtube.com/watch?v=LePHMaTfOos)
 * [https://github.com/telegram-ru/devops_chats](https://github.com/telegram-ru/devops_chats)
     полезный набор ссылок и очень познавательные чат https://t.me/devops_jobs
 
