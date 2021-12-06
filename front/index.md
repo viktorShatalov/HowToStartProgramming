@@ -16,4 +16,4 @@
 ## Работающие курсы для новичка
 1. Немного староват, но главные логические операции остаются актуальные и по сей день [Бесплатный курс на ютуб по react-js](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
 2. Канал на ютуб с современными фичами по фронту [ссылка](https://www.youtube.com/c/WebDevSimplified)
-3. [Постоянно обновляющяяся инфа по фронту](https://www.youtube.com/c/VladilenMinin)
+3. Постоянно обновляющяяся инфа по фронту [Канал Владилена Минина](https://www.youtube.com/c/VladilenMinin)
