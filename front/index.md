@@ -4,6 +4,9 @@
 
 ## Разное 
 - [Как правильно гуглить](https://proglib.io/p/how-to-google-as-a-programmer)
+- [Основы HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Основы CSS](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [Основы JavaScript](https://developer.mozilla.org/ru/docs/Learn/JavaScript/First_steps)
 
 ## Верстка
 1. Бесплатный курс по верстке на ютуб [самый топовый и понятный](https://www.youtube.com/watch?v=yJcCKuxfb2o&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
