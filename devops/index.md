@@ -8,6 +8,8 @@
 * [https://github.com/telegram-ru/devops_chats](https://github.com/telegram-ru/devops_chats)
     полезный набор ссылок и очень познавательные чат https://t.me/devops_jobs
 * [Собеседование Senior DevOps Engineer: вопросы](https://habr.com/ru/articles/733158/)
+* [Kubernetes: шпаргалка для собеседования](https://habr.com/ru/companies/gazprombank/articles/788978/)
+
 
 #### Личное мнение по поводу DevOps
 
