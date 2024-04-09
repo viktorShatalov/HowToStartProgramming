@@ -2,11 +2,6 @@
 
 [Примерный roadmap обучения Frontend](https://roadmap.sh/frontend)
 
-## Разное 
-- [Основы HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [Основы CSS](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
-- [Основы JavaScript](https://developer.mozilla.org/ru/docs/Learn/JavaScript/First_steps)
-
 ## Верстка
 1. Бесплатный курс по верстке на ютуб [самый топовый и понятный](https://www.youtube.com/watch?v=yJcCKuxfb2o&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
 1.1 Коментарий от [Evgeniy Blinov](https://github.com/EvgeniyBlinov/) по поводу
@@ -21,3 +16,8 @@
 1. Немного староват, но главные логические операции остаются актуальные и по сей день [Бесплатный курс на ютуб по react-js](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
 2. Канал на ютуб с современными фичами по фронту [ссылка](https://www.youtube.com/c/WebDevSimplified)
 3. Постоянно обновляющяяся инфа по фронту [Канал Владилена Минина](https://www.youtube.com/c/VladilenMinin)
+
+## Разное 
+- [Основы HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Основы CSS](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [Основы JavaScript](https://developer.mozilla.org/ru/docs/Learn/JavaScript/First_steps)
