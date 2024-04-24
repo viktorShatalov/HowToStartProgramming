@@ -19,3 +19,4 @@
  * [Backend](back/index.md) - серверная часть
  * [DevOps](devops/index.md) - управление инфраструктурой и взаимодействием
    между коммандами разработки
+ * [Architect](architect/index.md) - архитектурный уровень
