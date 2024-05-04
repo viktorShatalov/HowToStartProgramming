@@ -10,6 +10,10 @@
 * [Собеседование Senior DevOps Engineer: вопросы](https://habr.com/ru/articles/733158/)
 * [Kubernetes: шпаргалка для собеседования](https://habr.com/ru/companies/gazprombank/articles/788978/)
 
+### Видео
+
+* [DevOps Channel](https://www.youtube.com/@DevOpsChannel)
+
 
 #### Личное мнение по поводу DevOps
 
