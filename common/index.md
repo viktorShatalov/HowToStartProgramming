@@ -4,6 +4,10 @@
 - [https://t.me/it_chats](https://t.me/it_chats) - telegram чаты различной направленности
 - [Удобный менеджмент кода](./code_management.md)
 
+### Git
+
+- [Добавление нового ключа SSH в учетную запись GitHub](https://docs.github.com/ru/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui)
+
 ### Видео
 
 * [Полный курс по настройке Vs Code на 2024 (Расширения / Снипеты / Хоткеи)](https://www.youtube.com/watch?v=zR9AwQMaQWE)
