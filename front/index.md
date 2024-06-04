@@ -21,3 +21,6 @@
 - [Основы HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Основы CSS](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [Основы JavaScript](https://developer.mozilla.org/ru/docs/Learn/JavaScript/First_steps)
+
+## React
+- [Что нового в React Router 6.4+?](https://www.youtube.com/watch?v=pvhMvmP-vvk)
