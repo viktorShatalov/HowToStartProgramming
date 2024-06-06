@@ -25,3 +25,4 @@
 ## React
 - [Что нового в React Router 6.4+?](https://www.youtube.com/watch?v=pvhMvmP-vvk)
 - [React Router 6 - базовый роутинг React-приложения](https://www.youtube.com/watch?v=0auS9DNTmzE&list=PLiZoB8JBsdznY1XwBcBhHL9L7S_shPGVE&index=1)
+- [Топ 5 ошибок junior React-разработчика с useState](https://www.youtube.com/watch?v=fKZoF-cqino)
