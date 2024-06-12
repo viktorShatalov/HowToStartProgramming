@@ -8,7 +8,7 @@
 
 #### [echo boilerplate](https://github.com/EvgeniyBlinov/golang-echo-boilerplate)
 
-Довольно минималистичный boilerplate на легковесном фреймворе [echo](https://github.com/labstack/echo).
+Довольно минималистичный boilerplate на легковесном фреймворке [echo](https://github.com/labstack/echo).
 
 Уже установлено:
  - REST
@@ -20,7 +20,7 @@
  - godotenv
  - jwt
 
-В это патче [https://github.com/EvgeniyBlinov/golang-echo-boilerplate/tree/pg_uuidv7](https://github.com/EvgeniyBlinov/golang-echo-boilerplate/tree/pg_uuidv7) добавлено:
+В этом патче [https://github.com/EvgeniyBlinov/golang-echo-boilerplate/tree/pg_uuidv7](https://github.com/EvgeniyBlinov/golang-echo-boilerplate/tree/pg_uuidv7) добавлено:
 - psql
 - uuidv7
 - docker-compose pgadmin
