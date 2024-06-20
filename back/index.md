@@ -5,3 +5,4 @@
 ## Языки программирования
 
 * [go](go/index.md)
+* [python](python/index.md)
