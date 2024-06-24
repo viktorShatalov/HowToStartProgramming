@@ -6,6 +6,7 @@
 
 ### Git
 
+- [https://learngitbranching.js.org/- интерактивное обучение git](https://learngitbranching.js.org/)
 - [Добавление нового ключа SSH в учетную запись GitHub](https://docs.github.com/ru/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui)
 
 ### Видео
