@@ -14,7 +14,7 @@
 взамодействие с другими сервисами и пр., проще начать погружение в
 программирование с клиентской части.
 
-#### [работа с git (atlasian-docs)](https://www.atlassian.com/ru/git/tutorials/syncing/git-fetch)
+#### [Работа с git (atlasian-docs)](https://www.atlassian.com/ru/git/tutorials/syncing/git-fetch)
 
  * [Общее](common/index.md) - Общее
  * [Frontend](front/index.md) - клиентская часть
