@@ -13,6 +13,7 @@
 ### Видео
 
 * [DevOps Channel](https://www.youtube.com/@DevOpsChannel)
+* [Лекторий по SRE: Тинькофф образование](https://www.youtube.com/watch?v=L1zuhx0ZGYs&list=PLjCCarnDJNstX36A6Cw_YD28thNFev1op)
 
 
 #### Личное мнение по поводу DevOps
