@@ -5,4 +5,10 @@
 
 ## Видео
 
+### Вводная часть
+
+* [Дмитрий Волыхин — System Design-интервью для практиков](https://vkvideo.ru/video-796_456240470) [pdf](./assets/System_Design-JPoint_2024.pdf)
+
+### Прочее
+
 * [HighLoad Channel](https://www.youtube.com/@HighLoadChannel)
